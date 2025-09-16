@@ -1,2 +1,2 @@
-# Welcome to Open Sauce RSS Feeds
+# Welcome to mostly Open Sauce related RSS Feeds
 I might have pulled some pal's youtube channel lists and expressed them as rss using my other project https://github.com/cdibona/YoutubeRSSMaker ... have fun! I might keep them up to date...might not. patches , er, updated rss's welcome....
