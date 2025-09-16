@@ -1,0 +1,31 @@
+# Temporary files
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Environment files
+.env
+.env.local
+
+# Logs
+*.log
+
+# Build artifacts
+dist/
+build/
+
+# Python cache (in case any scripts are added)
+__pycache__/
+*.pyc
+*.pyo
+
+# Node modules (in case any JS tools are added)
+node_modules/
